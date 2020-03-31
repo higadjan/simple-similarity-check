@@ -9,3 +9,6 @@ The following Python packages are required.
   * gensim
   * punkt
   * UniversalCLI
+
+## Usage
+  `python simple-similarity-check/sim_check.py -d target_folder/ -o result.txt -w 6
